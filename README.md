@@ -8,4 +8,11 @@ Write a Python program called ``area.py``. This program will accept two numbers,
 Enter width: 2.75
 Enter height: 3
 Area: 8.25
+
 ```
+Enter width = (gvkgh)
+Enter height: 3
+Area: 8.25
+
+
+
